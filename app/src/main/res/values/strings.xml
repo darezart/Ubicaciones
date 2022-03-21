@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locations</string>
+    <string name="date">Fecha:</string>
+    <string name="time">Hora:</string>
+    <string name="Latitude">Latitud:</string>
+    <string name="longitude">Longitud:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
